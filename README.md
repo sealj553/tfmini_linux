@@ -1,4 +1,4 @@
-#tfmini_linux
+# tfmini_linux
 
 C library for interfacing with the Benewake TF Mini lidar sensor in Linux
 
