@@ -10,3 +10,5 @@ Example usage:
         while(lidar_scan(lidar) == 0);
         printf("dist:%d stren:%d\n", lidar->dist, lidar->stren);
     }
+
+    lidar_close(lidar);
